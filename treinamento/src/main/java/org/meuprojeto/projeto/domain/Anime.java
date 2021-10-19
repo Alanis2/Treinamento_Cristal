@@ -1,13 +1,11 @@
-package domain;
+package org.meuprojeto.projeto.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-@Data@AllArgsConstructor
-
+@Data
+@AllArgsConstructor
 public class Anime {
-    private long id;
+    private Long id;
     private String name;
-
-
 }

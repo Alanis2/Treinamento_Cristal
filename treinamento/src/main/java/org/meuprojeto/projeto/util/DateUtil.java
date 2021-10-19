@@ -1,4 +1,4 @@
-package util;
+package org.meuprojeto.projeto.util;
 
 import org.springframework.stereotype.Component;
 

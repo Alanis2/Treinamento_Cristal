@@ -1,6 +1,6 @@
-package repository;
+package org.meuprojeto.projeto.repository;
 
-import domain.Anime;
+import org.meuprojeto.projeto.domain.Anime;
 
 import java.util.List;
 
